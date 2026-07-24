@@ -8,6 +8,6 @@
     "img2webp": "node img2webp.js"
   },
   "dependencies": {
-    "sharp": "^0.32.6"
+    "sharp": "^0.35.0"
   }
 }
